@@ -1,0 +1,31 @@
+{
+  "name": "foodvilla",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javid4962/FoodVilla.git"
+  },
+  "keywords": [
+    "FoodVilla",
+    "ReactJS",
+    "FrontendWeb"
+  ],
+  "author": "javid4962",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javid4962/FoodVilla/issues"
+  },
+  "homepage": "https://github.com/javid4962/FoodVilla#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
